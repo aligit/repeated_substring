@@ -5,7 +5,7 @@ module RepeatedSubstring
     1 + 2
   end
 
-  def find_repeating_strs(str="banana\nam so uniqe")
+  def find_repeating_strs(str="banana")
     str
   end
 
